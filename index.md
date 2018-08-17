@@ -6,15 +6,20 @@ I am a third-year Ph.D. student in Computer Science at the University of Michiga
 
 I received my Bachelors degree from the University of California, Los Angeles in Economics and Mathematics. 
 
+## Updates
+- Jeeheh Oh, Maggie Makar et al., __A Generalizable, Data-Driven Approach to Predict Daily Risk of Clostridium difficile Infection at Two Large Academic Health Centers__, *Infection Control and Hospital Epidemiology*, March 2018.
+
+- Jeeheh Oh, Evan Snitkin, Vincent Young, __Data-Driven Tools to Curb the Spread of Healthcare-Associated Infections__, *MCubed Symposium*, November 2017.
+
 
 ## Contact
 
-*Address*
+**Address**
 Beyster 3861
 2260 Hayward Street
 Ann Arbor, MI
 
-*Email*
+**Email**
 jeeheh@umich.edu
 
 CV available upon request 
