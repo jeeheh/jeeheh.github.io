@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/jeeheh/jeeheh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a third-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I do Machine Learning for Healthcare, and am particularly interested in temporal prediction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received my Bachelors degree from the University of California, Los Angeles in Economics and Mathematics. 
+
 
 ### Markdown
 
