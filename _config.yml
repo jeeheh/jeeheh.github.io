@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Jeeheh Oh
 description: Personal website of computer science graduate student and dance afficionado.
+markdown: kramdown
