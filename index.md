@@ -1,7 +1,6 @@
 ## Welcome
  
-![alt text][photo]
-[photo]: https://github.com/jeeheh/jeeheh.github.io/blob/master/IMG_3383.JPG "me" <!-- .element height="50%" width="50%" -->
+![alt text](https://github.com/jeeheh/jeeheh.github.io/blob/master/IMG_3383.JPG) <!-- .element height="50%" width="50%" -->
 
 I am a third-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I do Machine Learning for Healthcare, and am particularly interested in temporal prediction.
 
@@ -31,11 +30,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeeheh/jeeheh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
