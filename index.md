@@ -14,14 +14,12 @@ I received my Bachelors degree from the University of California, Los Angeles in
 
 ## Contact
 
-**Address**
-Beyster 3861
-2260 Hayward Street
-Ann Arbor, MI
+**Address**  
+Beyster 3861  
+2260 Hayward Street  
+Ann Arbor, MI  
 
-**Email**
-jeeheh@umich.edu
+**Email**  
+jeeheh@umich.edu  
 
 CV available upon request 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
