@@ -1,4 +1,7 @@
 ## Welcome
+ 
+![alt text][photo]
+[photo]: https://github.com/jeeheh/jeeheh.github.io/blob/master/IMG_3383.JPG "me" <!-- .element height="50%" width="50%" -->
 
 I am a third-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). I do Machine Learning for Healthcare, and am particularly interested in temporal prediction.
 
