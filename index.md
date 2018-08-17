@@ -7,26 +7,16 @@ I am a third-year Ph.D. student in Computer Science at the University of Michiga
 I received my Bachelors degree from the University of California, Los Angeles in Economics and Mathematics. 
 
 
-### Markdown
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Address*
+Beyster 3861
+2260 Hayward Street
+Ann Arbor, MI
 
-```markdown
-Syntax highlighted code block
+*Email*
+jeeheh@umich.edu
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+CV available upon request 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
