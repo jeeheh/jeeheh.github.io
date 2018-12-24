@@ -16,7 +16,7 @@ Ann Arbor, MI
 **Email**  
 jeeheh@umich.edu  
 
-[CV](https://docs.google.com/viewer?url=$https://github.com/jeeheh/jeeheh.github.io/blob/master/CV.pdf)
+[CV](https://github.com/jeeheh/jeeheh.github.io/blob/master/pdf/CV.pdf)
 
 ## Updates
 - Jeeheh Oh, Jiaxuan Wang, Jenna Wiens, __Learning to Exploit Invariances from Clinical Time-Series Data using Sequence Transformer Networks__, *Machine Learning for Healthcare Conference (MLHC)*, August 2018. [Link](https://www.mlforhc.org/agenda/)
