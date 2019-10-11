@@ -19,10 +19,14 @@ jeeheh@umich.edu
 [CV](https://github.com/jeeheh/jeeheh.github.io/blob/master/pdf/CV.pdf)
 
 ## Updates
-- Jeeheh Oh, Jiaxuan Wang, Jenna Wiens, __Learning to Exploit Invariances from Clinical Time-Series Data using Sequence Transformer Networks__, *Machine Learning for Healthcare Conference (MLHC)*, August 2018. [Link](https://www.mlforhc.org/agenda/)
+* denotes equal contribution
 
-- Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, Jenna Wiens, __Learning Credible Models__, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, August 2018.[Link](https://www.kdd.org/kdd2018/accepted-papers/view/learning-credible-models)
+- Jeeheh Oh*, Jiaxuan Wang*, Shengpu Tang, Michael Sjoding, Jenna Wiens, __Relaxed Weight Sharing: Effectively Modeling Time-Varying Relationships in Clinical Time-Series__, *Machine Learning for Healthcare Conference (MLHC)*, August 2019. [Link](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472de6316029000145ac01/1564945896273/Oh.pdf) [Code](https://gitlab.eecs.umich.edu/mld3/mlhc2019_relaxed_parameter_sharing)
 
-- Jeeheh Oh, Maggie Makar et al., __A Generalizable, Data-Driven Approach to Predict Daily Risk of Clostridium difficile Infection at Two Large Academic Health Centers__, *Infection Control and Hospital Epidemiology (ICHE)*, March 2018. [Link](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/generalizable-datadriven-approach-to-predict-daily-risk-of-clostridium-difficile-infection-at-two-large-academic-health-centers/0C15787AAD711ACA03F692F0F45BCBCB)
+- Jeeheh Oh, Jiaxuan Wang, Jenna Wiens, __Learning to Exploit Invariances from Clinical Time-Series Data using Sequence Transformer Networks__, *Machine Learning for Healthcare Conference (MLHC)*, August 2018. [Link](https://arxiv.org/abs/1808.06725) [Code](https://gitlab.eecs.umich.edu/jeeheh/MLHC2018_SequenceTransformerNetworks)
+
+- Jiaxuan Wang, Jeeheh Oh, Haozhu Wang, Jenna Wiens, __Learning Credible Models__, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, August 2018.[Link](https://www.kdd.org/kdd2018/accepted-papers/view/learning-credible-models) [Code](https://github.com/nathanwang000/credible_learning)
+
+- Jeeheh Oh*, Maggie Makar* et al., __A Generalizable, Data-Driven Approach to Predict Daily Risk of Clostridium difficile Infection at Two Large Academic Health Centers__, *Infection Control and Hospital Epidemiology (ICHE)*, March 2018. [Link](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/generalizable-datadriven-approach-to-predict-daily-risk-of-clostridium-difficile-infection-at-two-large-academic-health-centers/0C15787AAD711ACA03F692F0F45BCBCB) [Code](https://gitlab.eecs.umich.edu/jeeheh/ICHE2018_CDIRiskPrediction)
 
 - Jeeheh Oh, Evan Snitkin, Vincent Young, __Data-Driven Tools to Curb the Spread of Healthcare-Associated Infections__, *MCubed Symposium*, November 2017. [Video](https://youtu.be/HM_DFcNv6-I)
