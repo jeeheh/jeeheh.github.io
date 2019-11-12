@@ -2,7 +2,7 @@
  
 ![profile](https://jeeheh.github.io/IMG_3383.JPG){:height="25%" width="25%" style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-I am a fourth-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My research focuses on the development of novel machine learning algorithms for leveraging clinical time-series data. I am particularly focused on novel architectures that can learn temporal invariances, time series alignment, as well as adapt to time varying tasks. Our work has applications in healthcare. We focus on clinically relevant tasks that utilize the electronic health record (EHR) to improve patient care.
+I am a fifth-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My research focuses on the development of novel machine learning algorithms for leveraging clinical time-series data. I am particularly focused on novel architectures that can learn temporal invariances, time series alignment, as well as adapt to time varying tasks. Our work has applications in healthcare. We focus on clinically relevant tasks that utilize the electronic health record (EHR) to improve patient care.
 
 I received my Bachelors degree from the University of California, Los Angeles in Economics and Mathematics. 
 
