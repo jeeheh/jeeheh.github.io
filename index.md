@@ -21,7 +21,7 @@ jeeheh@umich.edu
 ## Updates
 \* denotes equal contribution
 
-- Jeeheh Oh&ast, Jiaxuan Wang*, Shengpu Tang, Michael Sjoding, Jenna Wiens, __Relaxed Weight Sharing: Effectively Modeling Time-Varying Relationships in Clinical Time-Series__, *Machine Learning for Healthcare Conference (MLHC)*, August 2019. [Link](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472de6316029000145ac01/1564945896273/Oh.pdf) [Code](https://gitlab.eecs.umich.edu/mld3/mlhc2019_relaxed_parameter_sharing)
+- Jeeheh Oh\*, Jiaxuan Wang\*, Shengpu Tang, Michael Sjoding, Jenna Wiens, __Relaxed Weight Sharing: Effectively Modeling Time-Varying Relationships in Clinical Time-Series__, *Machine Learning for Healthcare Conference (MLHC)*, August 2019. [Link](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472de6316029000145ac01/1564945896273/Oh.pdf) [Code](https://gitlab.eecs.umich.edu/mld3/mlhc2019_relaxed_parameter_sharing)
 
 - Jeeheh Oh, Jiaxuan Wang, Jenna Wiens, __Learning to Exploit Invariances from Clinical Time-Series Data using Sequence Transformer Networks__, *Machine Learning for Healthcare Conference (MLHC)*, August 2018. [Link](https://arxiv.org/abs/1808.06725) [Code](https://gitlab.eecs.umich.edu/jeeheh/MLHC2018_SequenceTransformerNetworks)
 
