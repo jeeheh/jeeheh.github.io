@@ -17,6 +17,7 @@ Ann Arbor, MI
 jeeheh@umich.edu  
 
 [CV](https://github.com/jeeheh/jeeheh.github.io/blob/master/pdf/CV.pdf)
+
 [Github](https://gitlab.eecs.umich.edu/jeeheh)
 
 ## Updates
