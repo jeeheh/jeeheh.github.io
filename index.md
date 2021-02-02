@@ -20,7 +20,7 @@ jeeheh@umich.edu
 
 [Github](https://gitlab.eecs.umich.edu/jeeheh)
 
-[ORCID](https://orcid.org/0000-0002-8537-3070O
+[ORCID](https://orcid.org/0000-0002-8537-3070O)
 
 [Google Scholar](https://scholar.google.com/citations?user=JvbFgzIAAAAJ&hl=en)
 
