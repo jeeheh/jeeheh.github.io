@@ -2,7 +2,7 @@
  
 ![profile](https://jeeheh.github.io/IMG_2760.JPG){:height="25%" width="25%" style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-I am a fifth-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My research focuses on the development of novel machine learning algorithms for leveraging clinical time-series data. I am particularly focused on novel architectures that can learn temporal invariances, time series alignment, as well as adapt to time varying tasks. Our work has applications in healthcare. We focus on clinically relevant tasks that utilize the electronic health record (EHR) to improve patient care.
+I am a recently defended, sixth-year Ph.D. student in Computer Science at the University of Michigan, working in the MLD3 lab under [Jenna Wiens](http://www-personal.umich.edu/~wiensj/). My research focuses on the development of novel machine learning algorithms for leveraging clinical time-series data. I am particularly focused on novel architectures that can learn temporal invariances, time series alignment, as well as adapt to time varying tasks. Our work has applications in healthcare. We focus on clinically relevant tasks that utilize the electronic health record (EHR) to improve patient care.
 
 I received my Bachelors degree from the University of California, Los Angeles in Economics and Mathematics. 
 
@@ -27,6 +27,8 @@ jeeheh@umich.edu
 ## Updates
 \* denotes equal contribution
 
+- Jeeheh Oh, Jenna Wiens, __A Data-Driven Approach to Estimating Infectious Disease Transmission from Graphs:A Case of Class Imbalance Driven Low Homophily__, *ACM CHIL Workshop 2021*, April 2021.
+ 
 - Jeeheh Oh\*, Jiaxuan Wang\*, Shengpu Tang, Michael Sjoding, Jenna Wiens, __Relaxed Weight Sharing: Effectively Modeling Time-Varying Relationships in Clinical Time-Series__, *Machine Learning for Healthcare Conference (MLHC)*, August 2019. [Link](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472de6316029000145ac01/1564945896273/Oh.pdf) [Code](https://gitlab.eecs.umich.edu/mld3/mlhc2019_relaxed_parameter_sharing)
 
 - Jeeheh Oh, Jiaxuan Wang, Jenna Wiens, __Learning to Exploit Invariances from Clinical Time-Series Data using Sequence Transformer Networks__, *Machine Learning for Healthcare Conference (MLHC)*, August 2018. [Link](https://arxiv.org/abs/1808.06725) [Code](https://gitlab.eecs.umich.edu/jeeheh/MLHC2018_SequenceTransformerNetworks)
