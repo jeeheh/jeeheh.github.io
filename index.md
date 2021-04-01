@@ -18,7 +18,7 @@ jeeheh@umich.edu
 
 [CV](https://github.com/jeeheh/jeeheh.github.io/blob/master/CV.pdf)
 
-[Github](https://gitlab.eecs.umich.edu/jeeheh)
+[Gitlab](https://gitlab.eecs.umich.edu/jeeheh)
 
 [ORCID](https://orcid.org/0000-0002-8537-3070O)
 
