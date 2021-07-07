@@ -27,6 +27,8 @@ jeeheh@umich.edu
 ## Updates
 \* denotes equal contribution
 
+- Jeeheh Oh\*, Erkin Otles\*, Krishna Rao, Erica Shenoy, Laraine Washer, Ben Li, Hyeon Joo, Michelle Bochinski, Justin Ortwine, Vincent Young, Jenna Wiens, __Characterizing the Performance Gap: Prospectively Validating a Patient Risk Stratification Model at a Large Academic Medical Center__, *Machine Learning for Healtchare Conference (MLHC)*, August 2021. 
+
 - Jeeheh Oh, Jenna Wiens, __A Data-Driven Approach to Estimating Infectious Disease Transmission from Graphs:A Case of Class Imbalance Driven Low Homophily__, *ACM CHIL Workshop 2021*, April 2021.
  
 - Jeeheh Oh\*, Jiaxuan Wang\*, Shengpu Tang, Michael Sjoding, Jenna Wiens, __Relaxed Weight Sharing: Effectively Modeling Time-Varying Relationships in Clinical Time-Series__, *Machine Learning for Healthcare Conference (MLHC)*, August 2019. [Link](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472de6316029000145ac01/1564945896273/Oh.pdf) [Code](https://gitlab.eecs.umich.edu/mld3/mlhc2019_relaxed_parameter_sharing)
